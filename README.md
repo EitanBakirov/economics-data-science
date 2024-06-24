@@ -2,7 +2,7 @@
 
 In this repository, we are creating a beginner's guide to web scraping and APIs for data science students.
 
-Web_Scraping_and_APIs.ipynb - Main notebook
+<u>Web_Scraping_and_APIs.ipynb</u> - Main notebook
 
 Final_Notebooks folder - The final notebooks for each section (Web Scraping, APIs and their combination)
 
