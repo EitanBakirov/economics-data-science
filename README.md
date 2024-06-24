@@ -1,6 +1,6 @@
 # Economics-Data-Science
 
-In this repository, we are creating a beginner's guide to web scraping and APIs for data science students.
+In this repository we are creating a beginner's guide to web scraping and APIs for data science students.
 
 - Web_Scraping_and_APIs.ipynb - main notebook
 
