@@ -10,7 +10,7 @@ In this repository we are creating a beginner's guide to web scraping and APIs f
 
 - ipynb-to-HTML folder - code that allows to convert ipynb notebooks to HTML with and without Table of Contents
 
-
+---
 # Web Scraping and APIs Project
 
 ## Project Overview
